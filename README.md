@@ -217,18 +217,26 @@ gets to it, not about rewriting the cleaning rules.
 
 ## Video Demo
 
-*(Add your 90 second or shorter screen recording link here.)*
+https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_UPLOAD_ID
 
-Suggested structure for the recording, framed as a pipeline walkthrough
-rather than a feature tour:
+<details>
+<summary>If the embed above doesn't render</summary>
 
-1. Upload the raw CSV, call out the cleaning report (rows in, rows out,
-   dedup key used, marks imputed).
-2. Show the cleaned table and toggle a student to Debarred, point out
-   the shortlist below updating without a re-upload.
-3. Set a minimum total score, show the shortlist and stats updating
-   live.
-4. Download the CSV and open it to confirm it matches what is on
+<video src="demo/demo.mp4" controls width="600"></video>
+
+Or open the file directly: [demo/demo.mp4](demo/demo.mp4)
+
+</details>
+
+The recording (62 seconds) covers, in order:
+
+1. Uploading the raw CSV and the cleaning report that appears (rows in,
+   rows out, gender values unmapped, dedup key used).
+2. The cleaned table, toggling a student to Debarred and the shortlist
+   below updating immediately without a re-upload.
+3. Setting a minimum total score and watching the shortlist and summary
+   stats update live.
+4. Downloading the CSV and opening it to confirm it matches what's on
    screen.
 
 ## Live Deployment (optional)
@@ -237,5 +245,3 @@ rather than a feature tour:
 once deployed.)* To deploy on Streamlit Community Cloud: push this repo
 to GitHub, go to share.streamlit.io, connect the repo, and point it at
 `app.py`.
-#   S t u d e n t - d a t a - p i p e l i n e  
- 
