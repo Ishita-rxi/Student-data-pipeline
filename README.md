@@ -234,7 +234,4 @@ The recording (57 seconds) covers, in order:
 
 ## Live Deployment (optional)
 
-*(Add your Streamlit Community Cloud or Hugging Face Spaces link here
-once deployed.)* To deploy on Streamlit Community Cloud: push this repo
-to GitHub, go to share.streamlit.io, connect the repo, and point it at
-`app.py`.
+https://ishita-rxi-student-data-pipeline-app-z2kr5d.streamlit.app/
