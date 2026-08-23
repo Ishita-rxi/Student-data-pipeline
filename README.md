@@ -217,18 +217,11 @@ gets to it, not about rewriting the cleaning rules.
 
 ## Video Demo
 
-https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_UPLOAD_ID
-
-<details>
-<summary>If the embed above doesn't render</summary>
-
 <video src="demo/demo.mp4" controls width="600"></video>
 
 Or open the file directly: [demo/demo.mp4](demo/demo.mp4)
 
-</details>
-
-The recording (62 seconds) covers, in order:
+The recording (57 seconds) covers, in order:
 
 1. Uploading the raw CSV and the cleaning report that appears (rows in,
    rows out, gender values unmapped, dedup key used).
